@@ -1,0 +1,10 @@
+bin/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+
+# game data (vanilla and edited entityTypeData.ini), not source
+levels/
+modloader/
